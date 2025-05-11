@@ -1,4 +1,4 @@
-Thanks, Bakary. Based on your instruction to **only focus on the DenseNet169 novel model**, here's a clean, professional documentation (README-style) tailored to that architecture and your research context:
+![Skin Cancer Illustration](https://www.nationaldaycalendar.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:eco%2Cw_768/MjEwMzI5NzQ4MDc5OTEyMTQw/website-feature---lung-cancer-awareness-month--november.png)
 
 ---
 
